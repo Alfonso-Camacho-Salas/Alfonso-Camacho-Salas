@@ -1,7 +1,3 @@
-Here’s a similar **README** for your GitHub profile, following the style and structure you provided:
-
----
-
 # Hi there! 👋  
 **Welcome to My GitHub Profile**
 
