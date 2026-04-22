@@ -42,7 +42,7 @@ Feel free to explore my repositories, and don’t hesitate to connect. I’m alw
 
 ### 📫 Let's Connect:
 - **LinkedIn:** [Alfonso Camacho Salas](https://linkedin.com/in/alfonso-camacho-salas)
-- **Instagram:** [@alfonso.salas.cs](https://instagram.com/alfonso.salas.cs)
+- **Instagram:** [@alfonso.salas.ig]([https://instagram.com/alfonso.salas.cs](https://www.instagram.com/alfonso_camacho_salas/))
 
 ---
 *“Innovation distinguishes between a leader and a follower.”*
